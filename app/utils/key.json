@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ac-with-multitank",
+  "private_key_id": "11d35998fcdc1f7705186191210699814b2ada4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/lKgaz7+wuskp\nP2zVe/NkWQ3WeqG1JP0JovfwThQ5E0A8JzQbuaBhCjMDYucmKUnzkBtadxt3D+ZZ\nT6+lse01HlM84DfaFt+wjgdqH62XLqFWpZNlmQog8BZUypMIhnVs8wlpzy1Biw9n\nhrJ/AE0AgoIIdCy7pQd6FNxg2L43uXQT1Oohlt72Ga8YyV0v8ptn/1UDeZ+zfDKE\nwnbKr2x6y0xyasT8ibvy6v0kBaMnIXRY6jQCBPFs0u7nU0okvpdv1meyB1KEST3i\naLArzxE3g/IpexbLDwNlAcMcKNXMMDdYHPJ5k5agv6g2ju420NcoIjIqxwGzwzNq\nTofh6jUVAgMBAAECggEABt6fwIZei0nHWNFLZ8RQD/MZie1Pyx0ObcAIP/esxfco\nwH9vYOchFxm0hpSPUVD9s9wg/vdyZqyNR/qRg9GDffoeZfpsRke3sa8GGQoVwWwM\noPzC8kuwj0nMozG4X//iSgvU9JRXPRhtbvrnf6JVIIWNgBwaVoguYnRJCrf66iiO\nNbDvVlZyF2ew0YnzviQEW/V2J4G9O3Vw6ajc3cYfEpymhp3Uj1HKbVxVobmloarr\nbQcH6g/JqSRdi0sSYxBHS6x2WqEvxD7rC2s6XSI7Tv2yvDmQLrrM1VK3qT/NSVy3\n4ZDc6bn5tSaPkPkKKfuay5fjHYabayomt0EdUcTrKQKBgQD+hxFryqy/rwr+4efD\nzwm/JLoqm8NXgL6SVGGCUwbmK2o+y2kBIdPx0WSl/ho9XX4zyfXhzvaSv0RjG5Kb\nTXn51g+2O6hiXE/k5J6NbvFa6v4YFoYMEnaMaJB6gu1YzvmVMEDIN+5VZoUWl+nt\nMm9yxx6+8Qv/OrIhyelrInEWowKBgQDAsF65dk/SYoh0Yidlg8ucbcZaA4Ca2/RF\nbyaCA9xJOdcEJVWEi81Y7gYflYx5sE3x6YodWvWQCJ/mr5R9Xn6H0ZPtClsw7RLq\nfk343er0QmQciJNkBE7fHZupVmdwqVUABxkd/cpa0FBHKH3hiDfpXlMdOtmgdInI\nfHbqUrqY5wKBgBhc01UO/EQIvDOzady7N4KdQFiNuj/o6dTV0NOJoPJtG2lRTQa3\ntzLBSTH+RYK0LT1FyoxHpCBdwG0AGaNV4iQA0lYuFar8jQUqwOZmxSFfttyVY1VK\neyBrbdDcMV27yfX2vWystdpkyr5j4hc7KaHB33aFWhGfC6fiTL5deJejAoGAbbiA\nV88c6MmetdbmZBHGMU748WypIIU69QazwLj+CNxcqUmxBoas6YSwC/AWS3yvBZ9c\nPBb9WYTvuGYmgbT7C8+1Efchshxs9wXw1FNZZLkhVHYYp40kdDvh1W0T/b0OX7Or\nA77uKQQRklNmSrRMUiCZ5z0JiyqRAo6NECUHh+UCgYEAlZUo4CcwJz2kEPJlsu22\nA0ZIZEqJkacGXyY44d52cWlAyZsm1P38kUheyFEJlZm7O/+iemLtU8Wv4cPbJOc0\nR7wXR8utIaa9eAwNSDXEdrZtTEnTF51CxIRLIZjoVkGNPTkSgqhQik3ADli8cBbQ\nE9wchBuUMRShy8wGzyEHJ5Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "acwithmultitankowner@ac-with-multitank.iam.gserviceaccount.com",
+  "client_id": "113564979122770908820",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acwithmultitankowner%40ac-with-multitank.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

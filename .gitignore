@@ -1,1 +1,10 @@
 app/utils/key.json
+app/ai/gemini_key.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so

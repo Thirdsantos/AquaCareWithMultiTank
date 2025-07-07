@@ -1,11 +1,15 @@
 from flask import Flask
 from flask_apscheduler import APScheduler
+from flask_cors import CORS
 
 def create_app():
     app = Flask(__name__)
     
+    # Enable CORS
+    CORS(app)
+    
     # Import blueprints properly
-    from .routes import sensor_routes
+ 
 
     
     # Import blueprints
@@ -13,7 +17,8 @@ def create_app():
     
     # Register blueprints
     app.register_blueprint(sensor_routes.bp)
-    #app.register_blueprint(ai.bp)  # Uncomment when ai blueprint is ready
+    app.register_blueprint(ai.bp)
+
     
     # Initialize scheduler
    
